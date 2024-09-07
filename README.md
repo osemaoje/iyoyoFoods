@@ -38,8 +38,8 @@ A mobile application built using **Flutter** and **Firebase** that allows users 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/food-delivery-app.git
-cd food-delivery-app
+git clone https://github.com/osemaoje/iyoyoFoods.git
+cd payment
 ```
 
 ### Firebase Setup

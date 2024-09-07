@@ -1,6 +1,6 @@
 # Iyoyo Foods
 
-Iyoyo Foods Apps.
+Iyoyo Foods App.
 
 ## Getting Started
 

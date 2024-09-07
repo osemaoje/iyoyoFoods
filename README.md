@@ -34,7 +34,6 @@ A mobile application built using **Flutter** and **Firebase** that allows users 
 
 - [Flutter](https://flutter.dev/docs/get-started/install) installed
 - [Firebase](https://firebase.google.com/) account and project setup
-- [Google Maps API Key](https://developers.google.com/maps/gmp-get-started)
   
 ### Clone the Repository
 
@@ -52,10 +51,6 @@ cd food-delivery-app
    - `ios/Runner/`
 4. Enable **Firebase Authentication** and set up **Firestore** for the app's database.
 
-### Google Maps Setup
-
-1. Get a Google Maps API key from [Google Cloud Console](https://console.cloud.google.com/).
-2. Add your API key to the `android/app/src/main/AndroidManifest.xml` and `ios/Runner/AppDelegate.swift`.
 
 ### Running the App
 
@@ -80,16 +75,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
 - [Flutter](https://flutter.dev/)
 - [Firebase](https://firebase.google.com/)
-- [Google Maps API](https://developers.google.com/maps)
 
----
-
-You can modify and extend this README as per your project's specific features and requirements.

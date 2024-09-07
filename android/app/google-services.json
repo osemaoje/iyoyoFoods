@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107660181283",
+    "firebase_url": "https://fir-app-7480f-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-7480f",
+    "storage_bucket": "fir-app-7480f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107660181283:android:5791db7f42ce550aeb1696",
+        "android_client_info": {
+          "package_name": "com.ojestore.payment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6XXRzxuVD3MS9RnoF2OkiGDNg0SZrFDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
